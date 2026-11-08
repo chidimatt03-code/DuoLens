@@ -11,8 +11,11 @@ DuoLens is a camera, reaction-video and editing app. It does not collect, store 
 
 **What we do not do**
 - No account, no sign-in.
-- The app does not connect to the internet and does not send your videos, audio or any data to us or to anyone else.
-- No ads and no tracking.
+- DuoLens does not upload, send or share your videos, audio, photos or personal information with us or with anyone else.
+- No ads and no tracking by us.
+
+**Third-party components**
+DuoLens uses Google ML Kit on the device for face detection and background removal. These run on your phone. Google may receive limited technical information from ML Kit, such as basic usage and diagnostics. See Google's ML Kit terms and privacy information: https://developers.google.com/ml-kit/terms
 
 Your recordings are saved on your phone, in the Movies/DuoLens folder, and only you decide whether to share them.
 
